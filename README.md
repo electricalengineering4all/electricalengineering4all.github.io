@@ -1,26 +1,41 @@
 ##### [electricalengineer4all](http://electricalengineering4all.github.io "electricalengineer4all")
-### The website for Electrical Engineering 
-_**Examples and Tips for electromechanical projects and services**_
+### The website for Electrical Engineering (examples and tips for electromechanical projects and services)
 
 
+_**Υπηρεσίες / Services**_
+1. _**Εγκαταστάσεις Χαμηλής & Μέσης Τάσης / Low & Medium Voltage Installations**_
 
+	**-_Μελέτη & Σχεδίαση_** (Acad, Eplan, Ti-Soft, 4M, Customade Calculation Sheets)
+	
+	  -_Study & Design_ (Acad, Eplan, Ti-Soft, 4M, Customade Calculation Sheets)
+	
+	**-_Επίβλεψη Κατασκευής, Θέση Σε Λειτουργία, Εντοπισμός και Αποκατάσταση Σφαλμάτων Εγκαταστάσεων_**
+	
+	  -_Supervision od Constructions, Start Up, Faults' Detection & Restoration of Installations_
+	
+	**-_Σχεδίαση & Προγραμματισμός Βιομηχανικών και Κτηριακών Αυτοματισμών (PLC, SCADA, BEMS)_** (Siemens Tia Portal, KNX, BMS)
+	
+	  -_Study,Design & Programming of Industrials' and Households' Automations (PLC, SCADA, BEMS)_ (Siemens Tia Portal, KNX, BMS)
+	
 
-_**Υπηρεσίες**_
-1. Εγκαταστάσεις Χαμηλής & Μέσης Τάσης
+	
+2. _**Φωτοβολταικά Συστήματα (Οικιακά & Βιομηχανικά) / PV Installations (Households & Industrials) **_
 
-	*_Μελέτη & Σχεδίαση_  (Acad, Eplan, Ti-Soft, 4M, Customade Calculation Sheets)
+	**-_Μελέτη & Σχεδίαση_  (PVsyst, Acad, Eplan, Ti-Soft, 4M, Customade Calculation Sheets, Customade Apps)**
 	
-	*_Επίβλεψη Κατασκευής, Θέση Σε Λειτουργία, Εντοπισμός και Αποκατάσταση Σφαλμάτων Εγκαταστάσεων_
+	 -_Study & Design_ (Acad, Eplan, Ti-Soft, 4M, Customade Calculation Sheets)
+	 
+	**-_Επίβλεψη Κατασκευής, Θέση Σε Λειτουργία, Εντοπισμός και Αποκατάσταση Σφαλμάτων Εγκαταστάσεων_**
 	
-	*_Σχεδίαση & Προγραμματισμός Βιομηχανικών και Κτηριακών Αυτοματισμών (PLC, SCADA, BEMS)_ (Siemens Tia Portal, KNX)
-	
-	*_Επίβλεψη Κατασκευής Εγκαταστάσεων, Θέση Σε Λειτουργία Εγκαταστάσεων, Εντοπισμός και Αποκατάσταση Σφαλμάτων Εγκαταστάσεων_
-	
-2. Φωτοβολταικά Συστήματα (Οικιακά & Βιομηχανικά)
+	  -_Supervision od Constructions, Start Up, Faults' Detection & Restoration of Installations_
+	  
+_**Έργα / Projects**_
 
-	*_Μελέτη & Σχεδίαση_  (PVsyst, Acad, Eplan, Ti-Soft, 4M, Customade Calculation Sheets, Customade Apps)
+1. ![image-No1](C:\Users\kostas\Pictures\Github_Camera\20180430_113631)
+2. ![image-No2](C:\Users\kostas\Pictures\Github_Camera\20180430_113658)
+3. ![image-No3](C:\Users\kostas\Pictures\Github_Camera\)
+4. ![image-No4](C:\Users\kostas\Pictures\Github_Camera\)
+	  	
+
 	
-	*_Επίβλεψη Κατασκευής, Θέση Σε Λειτουργία, Εντοπισμός και Αποκατάσταση Σφαλμάτων Εγκαταστάσεων_
-	
-	*_Επίβλεψη Κατασκευής Εγκαταστάσεων, Θέση Σε Λειτουργία Εγκαταστάσεων, Εντοπισμός και Αποκατάσταση Σφαλμάτων Εγκαταστάσεων_
 	
