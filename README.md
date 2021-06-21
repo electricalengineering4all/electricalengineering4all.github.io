@@ -11,19 +11,19 @@ _**Υπηρεσίες / Services**_
 	
 	**-_Επίβλεψη Κατασκευής, Θέση Σε Λειτουργία, Εντοπισμός και Αποκατάσταση Σφαλμάτων Εγκαταστάσεων_**
 	
-	  -_Supervision od Constructions, Start Up, Faults' Detection & Restoration of Installations_
+	  -_Supervision of Constructions, Start Up, Faults' Detection & Repair_
 	
 	**-_Σχεδίαση & Προγραμματισμός Βιομηχανικών και Κτηριακών Αυτοματισμών (PLC, SCADA, BEMS)_** (Siemens Tia Portal, KNX, BMS)
 	
-	  -_Study,Design & Programming of Industrials' and Households' Automations (PLC, SCADA, BEMS)_ (Siemens Tia Portal, KNX, BMS)
+	  -_Study,Design & Programming of Industrials and Home Automations (PLC, SCADA, BEMS)_ (Siemens / Tia Portal, KNX)
 	
 
 	
-2. _**Φωτοβολταικά Συστήματα (Οικιακά & Βιομηχανικά) / PV Installations (Households & Industrials) **_
+2. _**Φωτοβολταικά Συστήματα (Οικιακά & Βιομηχανικά) / PV Installations (Home, Fiels & Industrial) **_
 
 	**-_Μελέτη & Σχεδίαση_  (PVsyst, Acad, Eplan, Ti-Soft, 4M, Customade Calculation Sheets, Customade Apps)**
 	
-	 -_Study & Design_ (Acad, Eplan, Ti-Soft, 4M, Customade Calculation Sheets)
+	 -_Study & Design_ (Acad, Eplan, Ti-Soft, 4M, Customade Calculation Sheets, Customade Apps)
 	 
 	**-_Επίβλεψη Κατασκευής, Θέση Σε Λειτουργία, Εντοπισμός και Αποκατάσταση Σφαλμάτων Εγκαταστάσεων_**
 	
